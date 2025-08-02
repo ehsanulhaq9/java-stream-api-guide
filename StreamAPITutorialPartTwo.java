@@ -20,7 +20,6 @@ public class StreamAPITutorialPartTwo {
 
                 List<Transaction> transactions = getMonthlyTransactions();
 
-                System.out.println("\n\n\n\n\n");
                 // ============================
                 // CATEGORY 1: Time-Based Analytics
                 // ============================
